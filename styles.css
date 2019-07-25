@@ -3,12 +3,22 @@
     padding: 0;
 }
 
-h1{
+.banner {
+    background-color: lightblue;
+    box-sizing: border-box;
+    padding: 40px;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+
+header h4 {
     text-align: center;
     background-color: darkgray;
     padding: 10px;
     border-bottom: 1px solid black;
 }
+
 img{
     display: block;
     margin: 10px auto;
